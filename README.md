@@ -2,7 +2,7 @@
 
 Companion repo for my Kotlin Demoscene Talk.
 
-Given at KotlinConf'23
+Given at KotlinConf'23 & Calgary's DevFestYYC
 
 ## References
 
